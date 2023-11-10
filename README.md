@@ -7,6 +7,6 @@ Shown below is the PaintPicker website with the options to upload an image, use 
 
 
 # References
-@TomIsLoading Color Picker Project 
-https://www.youtube.com/watch?v=UU3L6bsRWIk
-https://github.com/TomIsLoading/react-image-color-picker
+@TomIsLoading Color Picker Project:
+* https://www.youtube.com/watch?v=UU3L6bsRWIk
+* https://github.com/TomIsLoading/react-image-color-picker
